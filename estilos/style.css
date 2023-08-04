@@ -19,6 +19,7 @@ body {
 }
 
 main {
+    min-width: 300px;
     position: relative;
     height: 100vh;
     
